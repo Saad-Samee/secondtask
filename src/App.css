@@ -1,0 +1,127 @@
+body {
+  background-image: url("../public/images/home-bg-4.jpg");
+  /* background-position: center; */
+  /* height: 50px; */
+  /* width: 50wh; */
+  /* margin-top: -100px; */
+  /* color: #fff;  */
+  /* overflow-x: hidden !important; */
+}
+
+.section-One-Container {
+  margin-top: 6.5rem;
+  margin-bottom: 6rem;
+  opacity: 70%;
+}
+
+.section-one-heading {
+  line-height: 5.5 !important;
+  letter-spacing: 5px;
+}
+
+.section-Two-Heading {
+  line-height: 5.5 !important;
+  letter-spacing: 5px;
+  padding-top: 2rem;
+  /* font-size: 2rem; */
+}
+
+.fontsizing {
+  font-size: 1rem;
+  /* opacity: 0%; */
+}
+
+.section-Two-p1 {
+  font-size: 1.3rem !important;
+}
+
+.section-Two-h3 {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.react-icon {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  fill: dodgerblue;
+}
+.adding-padding {
+  padding-top: 10rem !important;
+}
+
+.forpad {
+  margin: 50px !important;
+  padding: 50px;
+}
+
+.padding {
+  padding-bottom: 5rem !important;
+}
+
+.section-five {
+  padding-top: 10rem !important;
+  padding-bottom: 10rem;
+}
+
+.section-6 {
+  padding-top: 10rem;
+  font-size: 4rem;
+  font-weight: 700;
+  padding-bottom: 3rem;
+}
+
+.section-7 {
+  padding-top: 10rem;
+}
+
+.section-7-h2 {
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.footer-setter {
+  padding-top: 15rem !important;
+}
+
+.forsection1buttomhover :hover {
+  background-color: white;
+}
+
+/* .image-size {
+  width: 47rem;
+  /* overflow: hidden; */
+/* object-fit: fill; */
+
+@media only screen and (max-width: 600px) {
+  .card-gap {
+    margin-bottom: 5rem !important;
+  }
+
+  .text-section-3 {
+    text-align: justify;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1.4rem;
+  }
+  .text1-section-3 {
+    font-size: 1.2rem !important;
+    padding-left: 1rem;
+    padding-top: 1rem;
+  }
+  .para-5 {
+    font-size: 1.5rem !important;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .forpaddin7 {
+    margin-top: -4.9rem;
+  }
+  .footer-setter {
+    font-size: 2rem;
+  }
+  .fontsizecard {
+    font-size: 1.3rem !important;
+  }
+}
